@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a Software Engineer from Virginia. I am interested in different cultures and languages, and enjoy developing applications using HTML, CSS, and Javascript.
 <!--
 **mmarvin3/mmarvin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
